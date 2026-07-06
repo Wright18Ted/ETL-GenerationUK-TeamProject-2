@@ -2,7 +2,7 @@
 
 ## Project Description 
 
-A Data Engineering Team-Project for Generations UK Data Engineer Bootcamp, Developed by Team Espress_Yourself in DE-NAT4
+A Data Engineering Team-Project for Generations UK Data Engineer Bootcamp, Developed by Team Espresso_Yourself in DE-NAT4
 
 ## Team Members 
 Ted 
